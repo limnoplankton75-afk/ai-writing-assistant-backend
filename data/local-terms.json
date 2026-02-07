@@ -1,0 +1,7 @@
+{
+  "food": ["makanan kekinian", "kuliner nusantara", "cemilan", "minuman segar", "jajanan pasar"],
+  "fashion": ["busana santai", "outfit kekinian", "model terkini", "style casual", "aksesoris lokal"],
+  "tech": ["gadget terbaru", "teknologi mutakhir", "smartphone", "aplikasi lokal", "startup Indonesia"],
+  "travel": ["destinasi wisata", "tempat hits", "spot foto", "wisata alam", "kuliner khas"],
+  "business": ["UMKM", "usaha rumahan", "bisnis online", "produk lokal", "pasar Indonesia"]
+}
